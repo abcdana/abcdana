@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=180&section=header&text=DaeunKim&fontSize=70&animation=twinkling)
-<p align="center">🇰🇷 🇦🇺 🇨🇦</p>
+<p align="center">🇰🇷 🇨🇦 🇦🇺</p>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
