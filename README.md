@@ -18,8 +18,8 @@
   <br>
 </p>
 
-<br><br>
-<h3 align="center">Tools that I use frequently</h3>
+<br>
+<p align="center"> Tools that I use frequently </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=Discord&logoColor=white"/></a>&nbsp 
