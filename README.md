@@ -17,8 +17,6 @@
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp 
   <br>
 </p>
-
-<br>
 <p align="center"> Tools that I use frequently </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>&nbsp 
@@ -32,4 +30,6 @@
   <a href="https://www.instagram.com/woo0_hooo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/#/"/></a>&nbsp
   <a href="mailto:abcdanakim@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=abcdanakim@gmail.com"/></a>
 </p>
-<br>
+<br>  
+
+[![Dana's GitHub stats](https://github-readme-stats.vercel.app/api?username=abcdana&hide=stars,issues&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
