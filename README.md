@@ -33,5 +33,3 @@
 <br>  
 
 [![Dana's GitHub stats](https://github-readme-stats.vercel.app/api?username=abcdana&hide=stars,issues&show_icons=true&theme=dark&hide_title=true&hide_border=true&icon_color=AE99DB)](https://github.com/anuraghazra/github-readme-stats)
-
-<script src="https://gist.github.com/abcdana/17945a293d50f83accae2e5d314ce46c.js"></script>
