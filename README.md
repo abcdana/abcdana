@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=Html5&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp 
   <br>
 </p>
@@ -21,13 +21,11 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=Discord&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>&nbsp 
 </p>
 
 <br><br>
 <h3 align="center"> How to Contact Me </h3>
 <p align="center">
-  <a href="https://www.instagram.com/woo0_hooo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/#/"/></a>&nbsp
   <a href="mailto:abcdanakim@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=abcdanakim@gmail.com"/></a>
 </p>
 <br>  
