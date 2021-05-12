@@ -32,7 +32,15 @@
 </p>
 <br>  
 
-[![Dana's GitHub stats](https://github-readme-stats.vercel.app/api?username=abcdana&hide=stars,issues&show_icons=true&theme=dark&hide_title=true&hide_border=true&icon_color=AE99DB)](https://github.com/anuraghazra/github-readme-stats)
 
+<h3 align="center">💻 My Github Stats 💻</h3>
+<div align="center">
+  
+[![Dana's GitHub stats](https://github-readme-stats.vercel.app/api?username=abcdana&hide=stars,issues&show_icons=true&theme=dark&hide_title=true&hide_border=true&icon_color=AE99DB)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fabcdana&count_bg=%23686CE5&title_bg=%232B2B2B&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+<p align="center">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fabcdana&count_bg=%23686CE5&title_bg=%232B2B2B&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</p>
