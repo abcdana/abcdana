@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=180&section=header&text=DaeunKim&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Daeun%20Kim&fontSize=90&animation=fadeIn&fontAlignY=38&desc=&descAlignY=51&descAlign=62)
+
 <p align="center">🇰🇷 🇨🇦 🇦🇺</p>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
@@ -27,6 +28,7 @@
 <h3 align="center"> How to Contact Me </h3>
 <p align="center">
   <a href="mailto:abcdanakim@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=abcdanakim@gmail.com"/></a>
+  <a href="https://velog.io/@abcdana"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@abcdana"/></a>&nbsp
 </p>
 <br>  
 
