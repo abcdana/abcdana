@@ -18,11 +18,7 @@
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp 
   <br>
 </p>
-<p align="center"> Tools that I use frequently </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=Discord&logoColor=white"/></a>&nbsp 
-</p>
+
 
 <br><br>
 <h3 align="center"> How to Contact Me </h3>
@@ -35,7 +31,7 @@
 <h3 align="center">💻 My Github Stats 💻</h3>
 <div align="center">
 
-  
+
 <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fabcdana&count_bg=%23686CE5&title_bg=%232B2B2B&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
