@@ -24,7 +24,7 @@
 <h3 align="center"> How to Contact Me </h3>
 <p align="center">
   <a href="mailto:abcdanakim@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=abcdanakim@gmail.com"/></a>
-  <a href="https://velog.io/@abcdana"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@abcdana"/></a>&nbsp
+<!--   <a href="https://velog.io/@abcdana"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@abcdana"/></a>&nbsp -->
 </p>
 <br>  
 
